@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Under Nordlysets straaler: Skildringer fra Lappernes land
+title: "Under Nordlysets straaler: Skildringer fra Lappernes land"
 author: Sophus Tromholt
 publication-date: 1885
 source: "Original edition: Tromholt, Sophus. Under Nordlysets straaler: Skildringer fra Lappernes land. Kjøbenhavn: Gyldendalske Boghandels Forlag (F. Hegel & Søn), 1885. Downloaded from Projekt Runeberg (http://runeberg.org/nordlysets/).  Digitized in July 2010 by University of Toronto; adjusted for Projekt Runeberg in July 2013 by Ralph E."
