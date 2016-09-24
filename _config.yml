@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               "A Digital Edition of Under Nordlysets straaler"
+tagline:             "A scholarly edition of Sophus Tromholt's Under Nordlysets straaler"
+description:         'Based on Ed, a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://philippconzett.github.io'
 baseurl:             '/ed'
 
